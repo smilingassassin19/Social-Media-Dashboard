@@ -19,9 +19,11 @@ Social media analytics dashboard shows social media posts from different platfor
 - Home page
 - ![screenshot1(1)](https://github.com/user-attachments/assets/1d00fb65-c40e-422f-bd31-3e40f3dcfe75)
   
--
 
-- Analytics Page
+
+- Dashboard Analytics pages
+- ![screenshot2](https://github.com/user-attachments/assets/190bf670-22f3-4635-906c-1a291d19f46c)
+
   
 
 
