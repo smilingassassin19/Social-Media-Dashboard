@@ -7,20 +7,20 @@ Social media analytics dashboard shows social media posts from different platfor
 - Number of followings
 - Number of posts
 - Account reached
-- Total stories
-- Total follows
-- Total posts
-- Total save
-- Total comments
-- Total shares
+- no of  stories
+- no of follows
+- no of posts
+- no of save
+- no of comments
+- no of shares
 
-## Screenshots
+## Screenshots of web site
 
 - Home page
-![Screenshot (134)](https://github.com/user-attachments/assets/cb61a7ca-2489-4ec3-9e3d-489e62369525)
+- 
 
 - Analytics Page
-![Screenshot (135)](https://github.com/user-attachments/assets/d7fbf8d6-a27b-42e9-b75c-635398dd4c69)
+  
 
 
 ## Tech Stacks
